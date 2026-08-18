@@ -1,0 +1,2 @@
+# abhinaya_Bioinformatics_projects
+bioinformatics projects and practical implementations
