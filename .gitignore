@@ -1,0 +1,33 @@
+# Genome/sequence data - too large for git, keep locally only
+*.fasta
+*.fa
+*.fastq
+*.fq
+*.fastq.gz
+*.fq.gz
+*.gff
+*.gff3
+*.gbk
+*.gbff
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor junk
+.DS_Store
+.vscode/
+*.swp
+
+# Large result files (adjust as needed once we generate outputs)
+*.bam
+*.sam
+*.vcf.gz.tbi
