@@ -1,6 +1,7 @@
 # Genome/sequence data - too large for git, keep locally only
 *.fasta
 *.fa
+*.fna
 *.fastq
 *.fq
 *.fastq.gz
