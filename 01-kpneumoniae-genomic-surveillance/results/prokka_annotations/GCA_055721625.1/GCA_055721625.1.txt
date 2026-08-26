@@ -1,0 +1,7 @@
+organism: Klebsiella pneumoniae strain 
+contigs: 3
+bases: 5584388
+CDS: 5252
+rRNA: 25
+tRNA: 87
+tmRNA: 1
