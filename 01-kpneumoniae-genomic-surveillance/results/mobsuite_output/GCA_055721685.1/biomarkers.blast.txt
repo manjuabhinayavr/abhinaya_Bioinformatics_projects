@@ -1,0 +1,14 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NZ_CP016035|MOBF	JBVQRZ010000002.1 Klebsiella pneumoniae strain KK33 plasmid pKK33_1, whole genome shotgun sequence	268	45322	11	268	6921	7179	264	38	81.439	96.0	96.0	plus	1.25e-53	206	oriT
+CP016722|MOB_unknown	JBVQRZ010000005.1 Klebsiella pneumoniae strain KK33 plasmid pKK33_4, whole genome shotgun sequence	218	5353	1	182	41	222	183	20	87.978	83.0	83.0	plus	1.66e-56	215	oriT
+AF250878|IncFIA	JBVQRZ010000002.1 Klebsiella pneumoniae strain KK33 plasmid pKK33_1, whole genome shotgun sequence	388	45322	2	388	4840	5226	387	6	98.45	99.0	99.0	minus	0.0	682	replicon
+000759__NC_013950_00034|rep_cluster_1418	JBVQRZ010000002.1 Klebsiella pneumoniae strain KK33 plasmid pKK33_1, whole genome shotgun sequence	876	45322	1	876	19776	20651	876	0	100.0	100.0	100.0	minus	0.0	1618	replicon
+000003__NC_002119_00001|ColRNAI_rep_cluster_1857	JBVQRZ010000003.1 Klebsiella pneumoniae strain KK33 plasmid pKK33_2, whole genome shotgun sequence	582	9729	1	582	7867	8448	582	8	98.625	100.0	100.0	plus	0.0	1031	replicon
+000204__CP008701_00115|IncR	JBVQRZ010000004.1 Klebsiella pneumoniae strain KK33 plasmid pKK33_3, whole genome shotgun sequence	894	47239	1	894	11683	12578	896	3	99.442	100.0	100.0	plus	0.0	1626	replicon
+CP041116_00002|ColRNAI_rep_cluster_1987	JBVQRZ010000005.1 Klebsiella pneumoniae strain KK33 plasmid pKK33_4, whole genome shotgun sequence	519	5353	103	516	4940	5353	414	24	94.203	80.0	97.0	minus	0.0	632	replicon
+NC_009793_00003|MOBC	JBVQRZ010000003.1 Klebsiella pneumoniae strain KK33 plasmid pKK33_2, whole genome shotgun sequence	243	9729	1	243	4379	5107	243	10	95.885	100.0	100.0	minus	2.94e-147	452	relaxase
+NC_016979_00005|MOBP	JBVQRZ010000005.1 Klebsiella pneumoniae strain KK33 plasmid pKK33_4, whole genome shotgun sequence	501	5353	1	501	640	2145	502	25	94.821	100.0	100.0	plus	0.0	910	relaxase
+NC_013284_00016|MPF_T	CM146775.1 Klebsiella pneumoniae strain KK33 chromosome, complete sequence, whole genome shotgun sequence	914	5480530	1	914	80046	82781	914	84	90.591	100.0	100.0	plus	0.0	1720	mate-pair-formation
+NC_010726_00011|MPF_T	CM146775.1 Klebsiella pneumoniae strain KK33 chromosome, complete sequence, whole genome shotgun sequence	358	5480530	5	358	83779	84840	354	49	86.158	99.0	99.0	plus	2.2999999999999998e-176	541	mate-pair-formation
+NC_005814_00013|MPF_T	CM146775.1 Klebsiella pneumoniae strain KK33 chromosome, complete sequence, whole genome shotgun sequence	227	5480530	1	227	85061	85741	227	7	96.916	100.0	100.0	plus	4.88e-130	402	mate-pair-formation
+NC_010726_00014|MPF_T	CM146775.1 Klebsiella pneumoniae strain KK33 chromosome, complete sequence, whole genome shotgun sequence	301	5480530	1	301	85744	86646	301	3	99.003	100.0	100.0	plus	0.0	617	mate-pair-formation

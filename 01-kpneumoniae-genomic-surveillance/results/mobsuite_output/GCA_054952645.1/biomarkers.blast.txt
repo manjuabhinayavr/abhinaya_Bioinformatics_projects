@@ -1,0 +1,7 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+JN420336|IncHI1B	JBUCRN010000003.1 Klebsiella pneumoniae subsp. pneumoniae strain SDS/K-5 plasmid p2k-5, whole genome shotgun sequence	570	218621	1	570	75846	76415	570	4	99.298	100.0	100.0	minus	0.0	1031	replicon
+000107__CP014778_00094|IncFIB	JBUCRN010000003.1 Klebsiella pneumoniae subsp. pneumoniae strain SDS/K-5 plasmid p2k-5, whole genome shotgun sequence	1011	218621	1	1011	94163	95173	1011	4	99.604	100.0	100.0	plus	0.0	1845	replicon
+NC_013284_00016|MPF_T	CM143112.1 Klebsiella pneumoniae subsp. pneumoniae strain SDS/K-5 chromosome, complete sequence, whole genome shotgun sequence	914	5274932	1	914	4711524	4714259	914	84	90.591	100.0	100.0	plus	0.0	1720	mate-pair-formation
+NC_010726_00011|MPF_T	CM143112.1 Klebsiella pneumoniae subsp. pneumoniae strain SDS/K-5 chromosome, complete sequence, whole genome shotgun sequence	358	5274932	5	358	4715257	4716318	354	49	86.158	99.0	99.0	plus	2.2599999999999997e-176	541	mate-pair-formation
+NC_005814_00013|MPF_T	CM143112.1 Klebsiella pneumoniae subsp. pneumoniae strain SDS/K-5 chromosome, complete sequence, whole genome shotgun sequence	227	5274932	1	227	4716539	4717219	227	7	96.916	100.0	100.0	plus	4.800000000000001e-130	402	mate-pair-formation
+NC_010726_00014|MPF_T	CM143112.1 Klebsiella pneumoniae subsp. pneumoniae strain SDS/K-5 chromosome, complete sequence, whole genome shotgun sequence	301	5274932	1	301	4717222	4718124	301	3	99.003	100.0	100.0	plus	0.0	617	mate-pair-formation

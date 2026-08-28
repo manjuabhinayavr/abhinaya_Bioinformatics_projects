@@ -1,0 +1,19 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+000483__CP010949_00006|rep_cluster_1195	JBVQRV010000002.1 Klebsiella pneumoniae strain KK50 plasmid pKK50_1, whole genome shotgun sequence	948	10184	13	937	2304	3226	932	152	81.974	98.0	98.0	plus	0.0	776	replicon
+000483__CP010949_00006|rep_cluster_1195	JBVQRV010000002.1 Klebsiella pneumoniae strain KK50 plasmid pKK50_1, whole genome shotgun sequence	948	10184	13	937	8445	9367	932	152	81.974	98.0	98.0	plus	0.0	776	replicon
+CP024497_00001|IncFIB	JBVQRV010000003.1 Klebsiella pneumoniae strain KK50 plasmid pKK50_2, whole genome shotgun sequence	1089	316829	1	1089	29710	30798	1090	77	92.752	100.0	100.0	plus	0.0	1574	replicon
+JN420336|IncHI1B	JBVQRV010000003.1 Klebsiella pneumoniae strain KK50 plasmid pKK50_2, whole genome shotgun sequence	570	316829	1	570	244592	245161	570	0	100.0	100.0	100.0	minus	0.0	1053	replicon
+NC_019160_00002|MOBP	JBVQRV010000002.1 Klebsiella pneumoniae strain KK50 plasmid pKK50_1, whole genome shotgun sequence	484	10184	1	484	4340	5791	484	7	98.554	100.0	100.0	plus	0.0	946	relaxase
+NC_016980_00239|MOBH	JBVQRV010000003.1 Klebsiella pneumoniae strain KK50 plasmid pKK50_2, whole genome shotgun sequence	982	316829	1	982	102742	105687	982	0	100.0	100.0	100.0	minus	0.0	1949	relaxase
+NC_010726_00014|MPF_T	CM146771.1 Klebsiella pneumoniae strain KK50 chromosome, complete sequence, whole genome shotgun sequence	301	5319475	1	301	623060	623962	301	3	99.003	100.0	100.0	minus	0.0	617	mate-pair-formation
+NC_005814_00013|MPF_T	CM146771.1 Klebsiella pneumoniae strain KK50 chromosome, complete sequence, whole genome shotgun sequence	227	5319475	1	227	623965	624645	227	3	98.678	100.0	100.0	minus	1.77e-132	409	mate-pair-formation
+NC_010726_00011|MPF_T	CM146771.1 Klebsiella pneumoniae strain KK50 chromosome, complete sequence, whole genome shotgun sequence	358	5319475	5	358	624870	625931	354	45	87.288	99.0	99.0	minus	2.6e-175	538	mate-pair-formation
+NC_013284_00016|MPF_T	CM146771.1 Klebsiella pneumoniae strain KK50 chromosome, complete sequence, whole genome shotgun sequence	914	5319475	1	914	626922	629657	914	80	91.028	100.0	100.0	minus	0.0	1728	mate-pair-formation
+NC_016980_00240|MPF_F	JBVQRV010000003.1 Klebsiella pneumoniae strain KK50 plasmid pKK50_2, whole genome shotgun sequence	708	316829	1	708	100626	102749	708	0	100.0	100.0	100.0	minus	0.0	1480	mate-pair-formation
+NC_018107_00101|MPF_F	JBVQRV010000003.1 Klebsiella pneumoniae strain KK50 plasmid pKK50_2, whole genome shotgun sequence	480	316829	1	480	110942	112381	480	18	96.25	100.0	100.0	plus	0.0	923	mate-pair-formation
+NC_016980_00110|MPF_F	JBVQRV010000003.1 Klebsiella pneumoniae strain KK50 plasmid pKK50_2, whole genome shotgun sequence	345	316829	178	345	277484	277987	168	0	100.0	49.0	100.0	minus	0.0	357	mate-pair-formation
+NC_016980_00110|MPF_F	JBVQRV010000003.1 Klebsiella pneumoniae strain KK50 plasmid pKK50_2, whole genome shotgun sequence	345	316829	1	178	277987	278520	178	0	100.0	52.0	100.0	minus	0.0	365	mate-pair-formation
+NC_016980_00109|MPF_F	JBVQRV010000003.1 Klebsiella pneumoniae strain KK50 plasmid pKK50_2, whole genome shotgun sequence	453	316829	1	453	278520	279878	453	0	100.0	100.0	100.0	minus	0.0	939	mate-pair-formation
+NC_016980_00099|MPF_T	JBVQRV010000003.1 Klebsiella pneumoniae strain KK50 plasmid pKK50_2, whole genome shotgun sequence	905	316829	1	905	290580	293294	905	0	100.0	100.0	100.0	minus	0.0	1846	mate-pair-formation
+NC_018107_00235|MPF_F	JBVQRV010000003.1 Klebsiella pneumoniae strain KK50 plasmid pKK50_2, whole genome shotgun sequence	389	316829	1	389	297255	298421	389	27	93.059	100.0	100.0	minus	0.0	707	mate-pair-formation
+NC_023911_00309|MPF_F	JBVQRV010000003.1 Klebsiella pneumoniae strain KK50 plasmid pKK50_2, whole genome shotgun sequence	286	316829	1	286	298426	299283	286	22	92.308	100.0	100.0	minus	3.68e-175	534	mate-pair-formation

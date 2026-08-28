@@ -1,0 +1,5 @@
+qseqid	sseqid	qlen	slen	qstart	qend	sstart	send	length	mismatch	pident	qcovhsp	qcovs	sstrand	evalue	bitscore	biomarker
+NZ_CP016035|MOBF	JBVQRY010000003.1 Klebsiella pneumoniae strain KK35 plasmid pKK35_2, whole genome shotgun sequence	268	73998	11	268	64358	64616	264	38	81.439	96.0	96.0	plus	1.23e-53	206	oriT
+000221__NC_025130_00012|IncX3	JBVQRY010000002.1 Klebsiella pneumoniae strain KK35 plasmid pKK35_1, whole genome shotgun sequence	873	16842	1	873	14631	15503	873	0	100.0	100.0	100.0	plus	0.0	1613	replicon
+000204__CP008701_00115|IncR	JBVQRY010000003.1 Klebsiella pneumoniae strain KK35 plasmid pKK35_2, whole genome shotgun sequence	894	73998	1	894	23945	24840	896	3	99.442	100.0	100.0	minus	0.0	1626	replicon
+AF250878|IncFIA	JBVQRY010000003.1 Klebsiella pneumoniae strain KK35 plasmid pKK35_2, whole genome shotgun sequence	388	73998	2	388	62288	62674	387	6	98.45	99.0	99.0	minus	0.0	682	replicon
