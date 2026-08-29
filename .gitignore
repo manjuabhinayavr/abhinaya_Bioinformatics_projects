@@ -6,9 +6,6 @@
 *.fq
 *.fastq.gz
 *.fq.gz
-*.gff
-*.gff3
-*.gbk
 *.gbff
 
 # Python
