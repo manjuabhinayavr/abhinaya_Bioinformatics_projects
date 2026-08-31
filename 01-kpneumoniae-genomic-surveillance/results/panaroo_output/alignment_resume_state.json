@@ -1,0 +1,9 @@
+{
+  "aligner": "mafft",
+  "alignment": "core",
+  "codons": false,
+  "core_threshold": 0.95,
+  "started_at": "2026-08-31T06:01:57Z",
+  "strict_codons": false,
+  "subset": null
+}

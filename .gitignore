@@ -35,3 +35,5 @@ env/
 gene_data.csv
 pan_genome_reference.fa
 combined_protein_cdhit_out.txt
+aligned_gene_sequences/
+core_gene_alignment.aln
