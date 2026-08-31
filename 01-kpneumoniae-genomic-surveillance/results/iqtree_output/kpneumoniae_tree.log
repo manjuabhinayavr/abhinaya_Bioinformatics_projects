@@ -1,0 +1,233 @@
+IQ-TREE version 3.1.3 for Linux x86 64-bit built Jul 26 2026
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    codespaces-f0ab70 (AVX2, FMA3, 7 GB RAM)
+Command: iqtree -s results/panaroo_output/core_gene_alignment_filtered.aln -pre results/iqtree_output/kpneumoniae_tree -nt 2 -bb 1000
+Seed:    460561 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Aug 31 10:28:36 2026
+Kernel:  AVX+FMA - 2 threads (2 CPU cores detected)
+
+Reading alignment file results/panaroo_output/core_gene_alignment_filtered.aln ... Fasta format detected
+Reading fasta file: done in 1.32371 secs using 85.19% CPU
+Alignment most likely contains DNA/RNA sequences
+Constructing alignment: done in 5.65319 secs using 47.99% CPU
+Alignment has 21 sequences with 3321566 columns, 9478 distinct patterns
+41992 parsimony-informative, 21125 singleton sites, 3258449 constant sites
+                 Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.000684023 secs using 64.47% CPU
+   1  GCA_055721565.1    0.45%    passed     99.98%
+   2  GCA_060056565.1    1.32%    passed     96.79%
+   3  GCA_053309215.1    0.49%    passed     99.95%
+   4  GCA_053309195.1    0.45%    passed    100.00%
+   5  GCA_053309155.1    0.45%    passed     99.95%
+   6  GCA_055485485.1    0.48%    passed     99.91%
+   7  GCA_053309175.1    0.47%    passed     99.98%
+   8  GCA_055721605.1    1.29%    passed     87.37%
+   9  GCA_055721585.1    0.39%    passed     99.85%
+  10  GCA_055721545.1    0.48%    passed     99.96%
+  11  GCA_055721685.1    0.45%    passed    100.00%
+  12  GCA_055721705.1    0.54%    passed     97.27%
+  13  GCA_055721645.1    0.52%    passed     99.29%
+  14  GCA_054952445.1    0.46%    passed     99.49%
+  15  GCA_055485515.1    0.45%    passed     99.82%
+  16  GCA_060056645.1    0.45%    passed     99.92%
+  17  GCA_054952405.1    0.54%    passed     95.35%
+  18  GCA_055721625.1    0.50%    passed     99.99%
+  19  GCA_054952645.1    0.93%    passed     99.63%
+  20  GCA_055721525.1    0.57%    passed     99.43%
+  21  GCA_055721665.1    0.48%    passed     98.58%
+****  TOTAL              0.58%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: minimal branch length is reduced to 0.000000030106 for long alignment
+Checking for duplicate sequences: done in 0.000744104 secs using 189.5% CPU
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.051 seconds
+Perform fast likelihood tree search using GTR+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -5254864.572
+2. Current log-likelihood: -5254844.031
+3. Current log-likelihood: -5254824.902
+4. Current log-likelihood: -5254807.442
+5. Current log-likelihood: -5254790.387
+6. Current log-likelihood: -5254774.840
+7. Current log-likelihood: -5254759.594
+8. Current log-likelihood: -5254745.711
+9. Current log-likelihood: -5254732.074
+10. Current log-likelihood: -5254719.696
+11. Current log-likelihood: -5254707.514
+12. Current log-likelihood: -5254696.461
+13. Current log-likelihood: -5254685.564
+14. Current log-likelihood: -5254676.568
+15. Current log-likelihood: -5254666.136
+16. Current log-likelihood: -5254658.148
+17. Current log-likelihood: -5254648.964
+18. Current log-likelihood: -5254641.757
+19. Current log-likelihood: -5254633.590
+20. Current log-likelihood: -5254627.155
+21. Current log-likelihood: -5254619.838
+22. Current log-likelihood: -5254614.089
+23. Current log-likelihood: -5254608.260
+24. Current log-likelihood: -5254602.908
+25. Current log-likelihood: -5254597.606
+26. Current log-likelihood: -5254592.792
+27. Current log-likelihood: -5254588.032
+28. Current log-likelihood: -5254583.712
+29. Current log-likelihood: -5254579.436
+30. Current log-likelihood: -5254575.560
+31. Current log-likelihood: -5254571.712
+32. Current log-likelihood: -5254568.234
+33. Current log-likelihood: -5254564.768
+34. Current log-likelihood: -5254561.648
+35. Current log-likelihood: -5254558.520
+36. Current log-likelihood: -5254555.722
+37. Current log-likelihood: -5254552.907
+38. Current log-likelihood: -5254550.396
+39. Current log-likelihood: -5254547.866
+40. Current log-likelihood: -5254545.612
+41. Current log-likelihood: -5254543.334
+42. Current log-likelihood: -5254541.314
+43. Current log-likelihood: -5254539.269
+44. Current log-likelihood: -5254537.456
+45. Current log-likelihood: -5254535.615
+46. Current log-likelihood: -5254533.991
+47. Current log-likelihood: -5254532.337
+48. Current log-likelihood: -5254530.878
+49. Current log-likelihood: -5254529.389
+50. Current log-likelihood: -5254528.082
+51. Current log-likelihood: -5254526.746
+52. Current log-likelihood: -5254525.575
+53. Current log-likelihood: -5254524.372
+54. Current log-likelihood: -5254523.322
+55. Current log-likelihood: -5254522.243
+Optimal log-likelihood: -5254521.116
+Rate parameters:  A-C: 0.98783  A-G: 4.98653  A-T: 1.06956  C-G: 0.66686  C-T: 7.55790  G-T: 1.00000
+Base frequencies:  A: 0.201  C: 0.290  G: 0.304  T: 0.204
+Proportion of invariable sites: 0.951
+Gamma shape alpha: 0.479
+Parameters optimization took 55 rounds (8.171 sec)
+Time for fast ML tree search: 28.101 seconds
+
+NOTE: ModelFinder requires 100 MB RAM!
+ModelFinder will test up to 968 DNA models (sample size: 3321566 epsilon: 0.100) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+Akaike Information Criterion:           GTR+F+R3
+Corrected Akaike Information Criterion: GTR+F+R3
+Bayesian Information Criterion:         GTR+F+R3
+Best-fit model: GTR+F+R3 chosen according to BIC
+
+All model information printed to results/iqtree_output/kpneumoniae_tree.model.gz
+CPU time for ModelFinder: 128.873 seconds (0h:2m:8s)
+Wall-clock time for ModelFinder: 74.064 seconds (0h:1m:14s)
+Generating 1000 samples for ultrafast bootstrap (seed: 460561)...
+
+NOTE: 55 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -5253845.089
+Optimal log-likelihood: -5253845.023
+Rate parameters:  A-C: 1.03362  A-G: 5.16537  A-T: 1.03290  C-G: 0.70654  C-T: 7.81128  G-T: 1.00000
+Base frequencies:  A: 0.201  C: 0.290  G: 0.304  T: 0.204
+Site proportion and rates:  (0.656,0.000) (0.331,0.579) (0.013,63.468)
+Parameters optimization took 1 rounds (0.201 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.00667405 secs using 200.7% CPU
+Computing ML distances took 0.007970 sec (of wall-clock time) 0.014073 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.000142813 secs using 98.73% CPU
+Constructing RapidNJ tree: done in 0.00075388 secs
+Computing RapidNJ tree took 0.001465 sec (of wall-clock time) 0.000998 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -5254511.002
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 8.816 second
+Computing log-likelihood of 98 initial trees ... 2.906 seconds
+Current best score: -5253845.023
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -5253844.968
+Iteration 10 / LogL: -5253845.133 / Time: 0h:1m:31s
+Iteration 20 / LogL: -5253950.098 / Time: 0h:1m:37s
+Finish initializing candidate tree set (3)
+Current best tree score: -5253844.968 / CPU time: 21.968
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -5253890.735 / Time: 0h:1m:43s (0h:1m:11s left)
+Iteration 40 / LogL: -5253845.109 / Time: 0h:1m:48s (0h:0m:53s left)
+Iteration 50 / LogL: -5253926.691 / Time: 0h:1m:53s (0h:0m:41s left)
+Log-likelihood cutoff on original alignment: -5254083.639
+Iteration 60 / LogL: -5253950.277 / Time: 0h:1m:59s (0h:0m:31s left)
+Iteration 70 / LogL: -5253845.113 / Time: 0h:2m:4s (0h:0m:22s left)
+Iteration 80 / LogL: -5253845.016 / Time: 0h:2m:9s (0h:0m:14s left)
+Iteration 90 / LogL: -5254086.174 / Time: 0h:2m:15s (0h:0m:7s left)
+Iteration 100 / LogL: -5253845.478 / Time: 0h:2m:21s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -5254083.639
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 1.000
+TREE SEARCH COMPLETED AFTER 102 ITERATIONS / Time: 0h:2m:22s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -5253844.968
+2. Current log-likelihood: -5253844.921
+3. Current log-likelihood: -5253844.881
+4. Current log-likelihood: -5253844.846
+5. Current log-likelihood: -5253844.814
+6. Current log-likelihood: -5253844.787
+7. Current log-likelihood: -5253844.761
+8. Current log-likelihood: -5253844.739
+9. Current log-likelihood: -5253844.717
+10. Current log-likelihood: -5253844.699
+11. Current log-likelihood: -5253844.680
+12. Current log-likelihood: -5253844.665
+13. Current log-likelihood: -5253844.648
+14. Current log-likelihood: -5253844.634
+15. Current log-likelihood: -5253844.620
+16. Current log-likelihood: -5253844.608
+17. Current log-likelihood: -5253844.594
+18. Current log-likelihood: -5253844.583
+19. Current log-likelihood: -5253844.571
+20. Current log-likelihood: -5253844.560
+21. Current log-likelihood: -5253844.549
+Optimal log-likelihood: -5253844.539
+Rate parameters:  A-C: 1.03743  A-G: 5.20083  A-T: 1.03810  C-G: 0.71074  C-T: 7.82497  G-T: 1.00000
+Base frequencies:  A: 0.201  C: 0.290  G: 0.304  T: 0.204
+Site proportion and rates:  (0.656,0.000) (0.331,0.579) (0.013,63.476)
+Parameters optimization took 21 rounds (2.333 sec)
+BEST SCORE FOUND : -5253844.539
+Creating bootstrap support values...
+Split supports printed to NEXUS file results/iqtree_output/kpneumoniae_tree.splits.nex
+Total tree length: 0.041
+
+Total number of iterations: 102
+CPU time used for tree search: 116.486 sec (0h:1m:56s)
+Wall-clock time used for tree search: 66.987 sec (0h:1m:6s)
+Total CPU time used: 250.914 sec (0h:4m:10s)
+Total wall-clock time used: 144.761 sec (0h:2m:24s)
+
+Computing bootstrap consensus tree...
+Reading input file results/iqtree_output/kpneumoniae_tree.splits.nex...
+21 taxa and 52 splits.
+Consensus tree written to results/iqtree_output/kpneumoniae_tree.contree
+Reading input trees file results/iqtree_output/kpneumoniae_tree.contree
+Log-likelihood of consensus tree: -5253844.766
+
+Analysis results written to: 
+  IQ-TREE report:                results/iqtree_output/kpneumoniae_tree.iqtree
+  Maximum-likelihood tree:       results/iqtree_output/kpneumoniae_tree.treefile
+  Likelihood distances:          results/iqtree_output/kpneumoniae_tree.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          results/iqtree_output/kpneumoniae_tree.splits.nex
+  Consensus tree:                results/iqtree_output/kpneumoniae_tree.contree
+  Screen log file:               results/iqtree_output/kpneumoniae_tree.log
+
+Date and Time: Mon Aug 31 10:31:11 2026
