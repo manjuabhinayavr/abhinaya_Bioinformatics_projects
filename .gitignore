@@ -29,3 +29,9 @@ env/
 *.bam
 *.sam
 *.vcf.gz.tbi
+
+*.gml
+*.clstr
+gene_data.csv
+pan_genome_reference.fa
+combined_protein_cdhit_out.txt
