@@ -1,2 +1,1 @@
- abhinaya_Bioinformatics_projects
-bioinformatics projects pipeline is given below
+
